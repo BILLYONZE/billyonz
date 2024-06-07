@@ -1,0 +1,23 @@
+input{
+    flex-direction: columninput
+        margin-left: 200px;
+        width: 300px;
+        height: 300px;
+        border-radius: 50px;
+        
+    }
+    .email{
+        background-color: rgb(223, 40, 211);
+    }
+    #password{
+        background-color: rgb(223, 40, 211);
+    }
+    button{
+    background-color: rgb(224, 28, 195);
+    color:black;
+}
+div{
+    background-color: lightslategray;
+    padding: 20px;
+    background img>"C:\Users\BMK\Downloads\istockphoto-1358140186-1024x1024 (1).jpg" ;
+}

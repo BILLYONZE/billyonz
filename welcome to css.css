@@ -1,0 +1,23 @@
+input{
+    margin: 25px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.email{
+   background-color: rgb(59, 56, 133);
+   color:black;
+}
+#password{
+    background-color: rgb(59, 56, 133);
+    color:black; 
+}
+button{
+    background-color: burlywood;
+    color:black;
+}
+div{
+    background-color: lightslategray;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
